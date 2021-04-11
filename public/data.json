@@ -1,0 +1,49 @@
+[{
+    "id":1,
+    "nameCategory": "dairyProducts",
+    "products": [{
+        "description": "milk",
+        "price": 5.00
+    }, {
+        "description": "cheese",
+        "price": 5.90
+    }, {
+        "description": "butter",
+        "price": 4.50
+    }, {
+        "description": "cottage",
+        "price": 4.75
+    }]
+}, {
+    "id":2,
+    "nameCategory": "cleaningProducts",
+    "products": [{
+        "description": "rags",
+        "price": 11.80
+    }, {
+        "description": "wiper",
+        "price": 20.90
+    }, {
+        "description": "fantastic",
+        "price": 15.90
+    }, {
+        "description": "sentmoriz",
+        "price": 8.90
+    }]
+}, {
+    "id":3,
+    "nameCategory": "bakingProducts",
+    "products": [{
+        "description": "sugar",
+        "price": 4.90
+    }, {
+        "description": "oil",
+        "price": 10.70
+    }, {
+        "description": "chocolate",
+        "price": 6.90
+    }, {
+        "description": "flour",
+        "price": 8.90
+    }]
+}]
