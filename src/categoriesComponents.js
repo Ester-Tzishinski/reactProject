@@ -31,7 +31,6 @@ function CategoriesComponents() {
     console.log(data)
     let match = useRouteMatch();
 
-    
     return (
         <div className="CategoriesComponents">
             {
